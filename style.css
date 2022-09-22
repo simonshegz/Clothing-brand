@@ -6,13 +6,27 @@
 }
 
 .img1{
-    margin-top: auto;
-    margin-left: 600px;
+    margin-top: -200px;
+    margin-left: 50px;
+    width: 100%;
+    background-image: url(./image/bg-intro-desktop.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -80px;
+    
+    
+    
     
 }
 .image1{
-    position: absolute;
+   width: 80%;
     
+}
+.image2{
+    width: 70%;
+    position: absolute;
+    margin-left: -1000px;
+
 }
 
 .navbar{
@@ -33,6 +47,7 @@ li a{
 }
 .line1{
     display: flex;
+    /* grid-template-columns: 1fr 1fr; */
     margin: 0px 0px;
     
     
@@ -51,7 +66,10 @@ div.mark{
 }
 .note1{
     margin: 90px;
-    font-size: 20px;
+    font-size: 30px;
+    text-align: left;
+    font-weight: 50px;
+    
     
 }
 .target{
@@ -59,6 +77,9 @@ div.mark{
 }
 .why{
     margin: 40px 20px;
+}
+.me{
+    margin: 15px;
 }
 .online, div, h2, p{
     margin:20px ;
