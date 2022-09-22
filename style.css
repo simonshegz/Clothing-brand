@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0 ;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.img1{
+    margin-top: auto;
+    margin-left: 600px;
+    
+}
+.image1{
+    position: absolute;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+li{
+    display: inline;
+    margin: 0 5px ;
+    
+}
+
+li a{
+    color: black;
+    text-decoration: none;
+}
+.line1{
+    display: flex;
+    margin: 0px 0px;
+    
+    
+}
+div.mark{
+    
+    background-color: rgb(201, 199, 199);
+    box-sizing: border-box;
+    border: none;
+    margin: -22px;
+}
+.line2{
+    overflow: hidden;
+    margin: 0;
+
+}
+.note1{
+    margin: 90px;
+    font-size: 20px;
+    
+}
+.target{
+    display: flex;
+}
+.why{
+    margin: 40px 20px;
+}
+.online, div, h2, p{
+    margin:20px ;
+}
+.box{
+    display: flex;
+}
+.lastest{
+    margin-top: 60px;
+
+}
+.btn button{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(58, 231, 58);
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: midnightblue;
+    color: white;
+}
+.ul2 .li2{
+    display: block;
+    margin-top: 10px;
+    margin-left: -200px;
+}
+.ul3 .li3{
+    display: block;
+    margin-top: 10px;
+   
+}
+.love{
+    display: flex;
+    justify-content: space-between;
+    gap: 70px;
+    
+    
+}
+.logo{
+    display: block;
+    
+
+}
